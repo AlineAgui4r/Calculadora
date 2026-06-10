@@ -56,17 +56,17 @@ Remove o último caractere digitado no visor.
 A seguir estão os prints da aplicação executando as operações:
 
 ### Soma
-![alt text](Soma-1.png)
-![alt text](<Soma - resultado-1.png>)
+![alt text](Soma.png)
+![alt text](<Soma - resultado.png>)
+
 
 ### Subtração
 ![alt text](Subtração.png)
 ![alt text](Subtração.resultado.png)
 
 ### Multiplicação
-![alt text](Multiplicação-1.png)
-![alt text](<Multiplicação resultado-1.png>)
-
+![alt text](Multiplicação.png)
+![alt text](<Multiplicação resultado.png>)
 ### Divisão
 ![alt text](Divisão.png)
 ![alt text](<Divisão resultado.png>)
